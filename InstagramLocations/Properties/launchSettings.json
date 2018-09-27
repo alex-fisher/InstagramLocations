@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InstagramLocations": {
+      "commandName": "Project",
+      "commandLineArgs": "-c Philidelphia"
+    }
+  }
+}
